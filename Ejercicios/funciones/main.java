@@ -116,7 +116,7 @@ public class main {
         System.out.println("15. Estudiante con mejor nota:");
         String[] nombresEstudiantes = {"Juan", "Maria", "Carlos", "Luisa"};
         double[] notasEstudiantes = {85.0, 92.5, 78.0, 92.5};
-        System.out.println("El estudiante con la mejor nota es: " + Funciones.buscarNota(nombresEstudiantes, notasEstudiantes)); // Esperado: Maria o Luisa (depende del orden de la primera nota más alta)
+        System.out.println("El estudiante con la mejor nota es: " + Funciones.buscarNota(nombresEstudiantes, notasEstudiantes));
         System.out.println("----------------------------------------");
     }
 
