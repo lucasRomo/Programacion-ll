@@ -1,0 +1,21 @@
+# Ignorar la carpeta de compilación de IntelliJ/Gradle/Maven
+/out/
+
+# Ignorar la carpeta de archivos del IDE IntelliJ
+/.idea/
+
+# Ignorar archivos de configuración del proyecto
+*.iml
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar cualquier archivo .DS_Store de macOS
+.DS_Store
+
+# Si usas Maven
+/target/
+
+# Si usas Gradle
+.gradle/
+/build/
